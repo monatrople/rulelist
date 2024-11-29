@@ -14,7 +14,6 @@
 (.*.||)(mycard).(com|tw)
 (.*.||)(gash).(com|tw)
 (.*.||)(pincong).(rocks)
-(eth|asia|eth-eu|eth-us|cn|eth-backup|eth-na|stratum-etheth-eu1|eth-eu2).(antpool|sparkpool|f2pool|nanopool).(org|com)
 (.*.)(gash).(com|tw)
 (.*.)(cyberpolice|12377|110|12389|jubao|8221110|cctv|81|12388|isc|12339|js12377).(org|com|net|cn|gov)
 (.*.)(metatrader4|metatrader5|mql5).(org|com|net)
