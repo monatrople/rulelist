@@ -1,6 +1,5 @@
 regexp:(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com
 regexp:(.*.)(^360|0360|1360|3600|360safe|qhimg|qhmsg|^yun­pan|qi­hoo|qhcdn|qhup­date|360­to­talse­cu­rity|360shouji|qi­hucdn|360kan|secmp).(cn|com|net)
-regexp:(Subject|HELO|SMTP)
 regexp:(torrent|.torrent|peer_id=|info_hash|get_peers|find_node|BitTorrent|announce_peer|announce.php?passkey=)
 regexp:(^.@)(guerrillamail|guerrillamailblock|sharklasers|grr|pokemail|spam4|bccto|chacuo|027168).(info|biz|com|de|net|org|me|la)
 regexp:(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
@@ -9,7 +8,6 @@ regexp:(ed2k|.torrent|peer_id=|announce|info_hash|get_peers|find_node|BitTorrent
 regexp:(.+.|^)(360).(cn|com|net)
 regexp:(.*.||)(guanjia.qq.com|qqpcmgr|QQPCMGR)
 regexp:(.*.||)(rising|kingsoft|duba|xindubawukong|jinshanduba).(com|net|org)
-regexp:(.*.||)(netvigator|torproject).(com|cn|net|org)
 regexp:(..||)(visa|mycard|mastercard|gash|beanfun).
 regexp:(.*.||)(gov|12377|12315|talk.news.pts.org|creaders|zhuichaguoji|efcc.org|cyberpolice|aboluowang|tuidang|epochtimes|110.qq|mingjingnews|newhighlandvision|inmediahk|xinsheng|breakgfw|chengmingmag|jinpianwang|qi-gong|mhradio|edoors|renminbao|soundofhope|xizang-zhiye|bannedbook|ntdtv|12321|secretchina|dajiyuan|boxun|dwnews|huaglad|oneplusnews|epochweekly|cn.rfi).(cn|com|org|net|club|net|fr|tw|hk|eu|info|me)
 regexp:(.*.||)(miaozhen|cnzz|talkingdata|umeng).(cn|com)
