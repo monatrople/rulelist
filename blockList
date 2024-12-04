@@ -16,7 +16,6 @@ regexp:(.*.||)(miaozhen|cnzz|talkingdata|umeng).(cn|com)
 regexp:(.*.||)(mycard).(com|tw)
 regexp:(.*.||)(gash).(com|tw)
 regexp:(.*.||)(pincong).(rocks)
-regexp:(.*.||)(taobao).(com)
 regexp:(.*.)(tcbox|wappass|tieba|nsclick|sofire|gips0|afd|als|hmma|info|bgg|mbd|afdconf|).(tuisong|baidu|bdstatic).(cn|com|net)
 regexp:(.*.)(gash).(com|tw)
 regexp:.*gov.cn
