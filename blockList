@@ -8,7 +8,7 @@ regexp:(ed2k|.torrent|peer_id=|announce|info_hash|get_peers|find_node|BitTorrent
 regexp:(.+.|^)(360).(cn|com|net)
 regexp:(.*.||)(guanjia.qq.com|qqpcmgr|QQPCMGR)
 regexp:(.*.||)(rising|kingsoft|duba|xindubawukong|jinshanduba).(com|net|org)
-regexp:(..||)(visa|mycard|mastercard|gash|beanfun).
+regexp:(..||)(visa|mycard|mastercard|gash).
 regexp:(.*.||)(12377|12315|talk.news.pts.org|creaders|zhuichaguoji|efcc.org|cyberpolice|aboluowang|tuidang|epochtimes|110.qq|mingjingnews|newhighlandvision|inmediahk|xinsheng|breakgfw|chengmingmag|jinpianwang|qi-gong|mhradio|edoors|renminbao|soundofhope|xizang-zhiye|bannedbook|ntdtv|12321|secretchina|dajiyuan|boxun|dwnews|huaglad|oneplusnews|epochweekly|cn.rfi).(cn|com|org|net|club|net|fr|hk|eu|info|me)
 regexp:(.*.||)(miaozhen|cnzz|talkingdata|umeng).(cn|com)
 regexp:(.*.||)(mycard).(com|tw)
